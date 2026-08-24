@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Agent Etna — a developmental simulator for AI agents" width="100%">
-</picture>
+<img src="assets/banner-dark.svg" alt="Agent Etna — a developmental simulator for AI agents" width="100%">
 
 &nbsp;
 
